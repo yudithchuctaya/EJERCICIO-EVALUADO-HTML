@@ -240,9 +240,10 @@ var array=[
   //alert (dato_1);
   var s = "<div>" + 
     "<h1>" +  dato_1.name + "</h1>" +
-  "</div>"+
+  
+
    "<h2>" +  dato_1.email+ "</h2>" +
-  "</div>"+
+  
       
    "<h3>" +  dato_1.address.street + "</h3>" +
   "</div>";
